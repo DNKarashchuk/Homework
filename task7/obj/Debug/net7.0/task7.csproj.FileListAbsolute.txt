@@ -1,0 +1,15 @@
+C:\Users\DNK-ME\YandexDisk\DNK\VSCod Karashcuk\С# 4431\task7\obj\Debug\net7.0\task7.csproj.AssemblyReference.cache
+C:\Users\DNK-ME\YandexDisk\DNK\VSCod Karashcuk\С# 4431\task7\obj\Debug\net7.0\task7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DNK-ME\YandexDisk\DNK\VSCod Karashcuk\С# 4431\task7\obj\Debug\net7.0\task7.AssemblyInfoInputs.cache
+C:\Users\DNK-ME\YandexDisk\DNK\VSCod Karashcuk\С# 4431\task7\obj\Debug\net7.0\task7.AssemblyInfo.cs
+C:\Users\DNK-ME\YandexDisk\DNK\VSCod Karashcuk\С# 4431\task7\obj\Debug\net7.0\task7.csproj.CoreCompileInputs.cache
+C:\Users\DNK-ME\YandexDisk\DNK\VSCod Karashcuk\С# 4431\task7\bin\Debug\net7.0\task7.exe
+C:\Users\DNK-ME\YandexDisk\DNK\VSCod Karashcuk\С# 4431\task7\bin\Debug\net7.0\task7.deps.json
+C:\Users\DNK-ME\YandexDisk\DNK\VSCod Karashcuk\С# 4431\task7\bin\Debug\net7.0\task7.runtimeconfig.json
+C:\Users\DNK-ME\YandexDisk\DNK\VSCod Karashcuk\С# 4431\task7\bin\Debug\net7.0\task7.dll
+C:\Users\DNK-ME\YandexDisk\DNK\VSCod Karashcuk\С# 4431\task7\bin\Debug\net7.0\task7.pdb
+C:\Users\DNK-ME\YandexDisk\DNK\VSCod Karashcuk\С# 4431\task7\obj\Debug\net7.0\task7.dll
+C:\Users\DNK-ME\YandexDisk\DNK\VSCod Karashcuk\С# 4431\task7\obj\Debug\net7.0\refint\task7.dll
+C:\Users\DNK-ME\YandexDisk\DNK\VSCod Karashcuk\С# 4431\task7\obj\Debug\net7.0\task7.pdb
+C:\Users\DNK-ME\YandexDisk\DNK\VSCod Karashcuk\С# 4431\task7\obj\Debug\net7.0\task7.genruntimeconfig.cache
+C:\Users\DNK-ME\YandexDisk\DNK\VSCod Karashcuk\С# 4431\task7\obj\Debug\net7.0\ref\task7.dll
